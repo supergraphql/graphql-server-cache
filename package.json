@@ -1,0 +1,16 @@
+{
+  "name": "graphql-server-cache",
+  "version": "0.0.0",
+  "description": "Advanced caching middleware for Express GraphQL servers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supergraphql/graphql-server-cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/supergraphql/graphql-server-cache/issues"
+  },
+  "homepage": "https://github.com/supergraphql/graphql-server-cache#readme",
+  "author": "Kim Brandwijk <kim.brandwijk@gmail.com>",
+  "license": "ISC"
+}
