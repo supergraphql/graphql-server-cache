@@ -1,6 +1,6 @@
 {
   "name": "graphql-server-cache",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Advanced caching middleware for Express GraphQL servers",
   "main": "index.js",
   "repository": {
